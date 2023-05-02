@@ -22,7 +22,7 @@ class Player {
       : this.age = age,
         this.name = name,
         this.team = 'red',
-        this.xp = 0,
+        this.xp = 0;
 }
 
 void main() {
