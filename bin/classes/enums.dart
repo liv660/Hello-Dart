@@ -1,5 +1,5 @@
 enum Team { red, blue, }
-enum XPLevel { beginnger, medium, pro }
+enum XPLevel { beginner, medium, pro }
 
 class Player {
   String name;
@@ -12,7 +12,7 @@ class Player {
 }
 
 void main() {
-  var player = Player(name: 'soyeon', xp: XPLevel.beginnger, team: Team.red)
+  var player = Player(name: 'soyeon', xp: XPLevel.beginner, team: Team.red)
       ..introduce()
       ..team = Team.blue
       ..xp = XPLevel.medium
