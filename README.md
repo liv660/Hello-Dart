@@ -1,11 +1,11 @@
 ## Hello Dart
 Flutter 앱 개발을 위한 Dart 배우기
 
-+ Variables (variable.dart)
++ Variables
   + var, dynamic, nullable, late, const
   
 
-+ Data Types (data_types)
++ Data Types
   + String Interpolation
   + Collection if
   + Collection for
